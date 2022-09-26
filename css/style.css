@@ -17,3 +17,7 @@
     background-color: var(--green);
     border-color: var(--skyblue);
 }
+
+.no-content {
+    min-height: 40px;
+}
